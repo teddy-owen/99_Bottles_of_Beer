@@ -1,0 +1,33 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "ninety nine bottles of beer",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "PlaySongIntent",
+                    "slots": [],
+                    "samples": [
+                      "play"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
